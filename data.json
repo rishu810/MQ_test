@@ -1,0 +1,1787 @@
+
+[
+    {
+      "movie": "Harry Potter",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who is Harry Potter’s best friend?",
+          "options": ["Draco Malfoy", "Ron Weasley", "Neville Longbottom", "Cedric Diggory"],
+          "answer": "Ron Weasley"
+        },
+        {
+          "id": 2,
+          "question": "What is the name of Harry Potter’s pet owl?",
+          "options": ["Pigwidgeon", "Hedwig", "Fawkes", "Errol"],
+          "answer": "Hedwig"
+        },
+        {
+          "id": 3,
+          "question": "What house is Harry Potter in at Hogwarts?",
+          "options": ["Slytherin", "Hufflepuff", "Gryffindor", "Ravenclaw"],
+          "answer": "Gryffindor"
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the school that Harry attends?",
+          "options": ["Beauxbatons Academy", "Durmstrang Institute", "Hogwarts School of Witchcraft and Wizardry", "Ilvermorny"],
+          "answer": "Hogwarts School of Witchcraft and Wizardry"
+        },
+        {
+          "id": 5,
+          "question": "What is the name of the dark wizard who killed Harry’s parents?",
+          "options": ["Lord Voldemort", "Bellatrix Lestrange", "Draco Malfoy", "Lucius Malfoy"],
+          "answer": "Lord Voldemort"
+        },
+        {
+          "id": 6,
+          "question": "Which magical creature pulls the carriages at Hogwarts?",
+          "options": ["Thestrals", "Hippogriffs", "Dragons", "House-elves"],
+          "answer": "Thestrals"
+        },
+        {
+          "id": 7,
+          "question": "Who is the head of Gryffindor House?",
+          "options": ["Severus Snape", "Filius Flitwick", "Minerva McGonagall", "Pomona Sprout"],
+          "answer": "Minerva McGonagall"
+        },
+        {
+          "id": 8,
+          "question": "What is the name of Harry’s aunt and uncle with whom he lived before attending Hogwarts?",
+          "options": ["The Malfoys", "The Grangers", "The Dursleys", "The Weasleys"],
+          "answer": "The Dursleys"
+        },
+        {
+          "id": 9,
+          "question": "What type of animal is Animagus for Sirius Black?",
+          "options": ["A rat", "A dog", "A cat", "A stag"],
+          "answer": "A dog"
+        },
+        {
+          "id": 10,
+          "question": "What magical object does Harry use to play Quidditch?",
+          "options": ["A broomstick", "A wand", "A broom", "A Snitch"],
+          "answer": "A broomstick"
+        },
+        {
+          "id": 11,
+          "question": "Who is Harry Potter’s godfather?",
+          "options": ["Hagrid", "Sirius Black", "Dumbledore", "Remus Lupin"],
+          "answer": "Sirius Black"
+        },
+        {
+          "id": 12,
+          "question": "Which of these is the name of Harry’s school rival who is a member of Slytherin?",
+          "options": ["Cedric Diggory", "Draco Malfoy", "Viktor Krum", "Neville Longbottom"],
+          "answer": "Draco Malfoy"
+        },
+        {
+          "id": 13,
+          "question": "What is the name of the Weasley family’s home?",
+          "options": ["The Burrow", "The Cottage", "The Manor", "The Castle"],
+          "answer": "The Burrow"
+        },
+        {
+          "id": 14,
+          "question": "What is the name of the train that takes students to Hogwarts?",
+          "options": ["The Hogwarts Express", "The Magic Train", "The Flying Express", "The Enchanted Train"],
+          "answer": "The Hogwarts Express"
+        },
+        {
+          "id": 15,
+          "question": "Who was the first person Harry saw in Diagon Alley?",
+          "options": ["Hagrid", "Ron Weasley", "Draco Malfoy", "Hermione Granger"],
+          "answer": "Hagrid"
+        },
+        {
+          "id": 16,
+          "question": "Which magical creature does Hagrid introduce to Harry in the Forbidden Forest?",
+          "options": ["Centaur", "Hippogriff", "Dragon", "Acromantula"],
+          "answer": "Hippogriff"
+        },
+        {
+          "id": 17,
+          "question": "What is the name of the magical sweet shop in Hogsmeade?",
+          "options": ["Honeydukes", "Weasleys' Wizard Wheezes", "Zonko's Joke Shop", "Bertie Bott's"],
+          "answer": "Honeydukes"
+        },
+        {
+          "id": 18,
+          "question": "What form does Harry’s Patronus take?",
+          "options": ["A wolf", "A stag", "A lion", "A bird"],
+          "answer": "A stag"
+        },
+        {
+          "id": 19,
+          "question": "Which sport does Harry play at Hogwarts?",
+          "options": ["Quidditch", "Wizard Chess", "Broom Racing", "Gobstones"],
+          "answer": "Quidditch"
+        },
+        {
+          "id": 20,
+          "question": "Who was the first headmaster of Hogwarts?",
+          "options": ["Albus Dumbledore", "Phineas Nigellus Black", "Godric Gryffindor", "Salazar Slytherin"],
+          "answer": "Albus Dumbledore"
+        },
+        {
+          "id": 21,
+          "question": "What is the name of the school nurse at Hogwarts?",
+          "options": ["Madam Pomfrey", "Madam Pince", "Professor Sprout", "Professor Flitwick"],
+          "answer": "Madam Pomfrey"
+        },
+        {
+          "id": 22,
+          "question": "What type of creature is Aragog, Hagrid's pet?",
+          "options": ["Dragon", "Basilisk", "Acromantula", "Troll"],
+          "answer": "Acromantula"
+        },
+        {
+          "id": 23,
+          "question": "What spell is used to summon objects?",
+          "options": ["Accio", "Lumos", "Wingardium Leviosa", "Expelliarmus"],
+          "answer": "Accio"
+        },
+        {
+          "id": 24,
+          "question": "What type of animal is the Weasleys’ family pet, Pigwidgeon?",
+          "options": ["A cat", "An owl", "A rat", "A dog"],
+          "answer": "An owl"
+        },
+        {
+          "id": 25,
+          "question": "Which professor teaches Transfiguration at Hogwarts?",
+          "options": ["Professor Snape", "Professor McGonagall", "Professor Flitwick", "Professor Dumbledore"],
+          "answer": "Professor McGonagall"
+        },
+        {
+          "id": 26,
+          "question": "What is the name of the Weasley twins’ joke shop?",
+          "options": ["The Wizarding World", "Weasleys' Wizard Wheezes", "Zonko's Joke Shop", "The Trickster’s Den"],
+          "answer": "Weasleys' Wizard Wheezes"
+        },
+        {
+          "id": 27,
+          "question": "What spell does Harry use to disarm his opponent?",
+          "options": ["Expelliarmus", "Avada Kedavra", "Petrificus Totalus", "Stupefy"],
+          "answer": "Expelliarmus"
+        },
+        {
+          "id": 28,
+          "question": "Which of these characters is a ghost that haunts Hogwarts?",
+          "options": ["Nearly Headless Nick", "Mad-Eye Moody", "Luna Lovegood", "Draco Malfoy"],
+          "answer": "Nearly Headless Nick"
+        },
+        {
+          "id": 29,
+          "question": "What is the name of the magical object that allows wizards to travel in time?",
+          "options": ["Time-Turner", "Portkey", "Apparition", "Broomstick"],
+          "answer": "Time-Turner"
+        },
+        {
+          "id": 30,
+          "question": "Who was the founder of Gryffindor House?",
+          "options": ["Salazar Slytherin", "Godric Gryffindor", "Helga Hufflepuff", "Rowena Ravenclaw"],
+          "answer": "Godric Gryffindor"
+        },
+        {
+          "id": 31,
+          "question": "Which character does Harry first use the invisibility cloak on?",
+          "options": ["Ron Weasley", "Neville Longbottom", "Hermione Granger", "Draco Malfoy"],
+          "answer": "Neville Longbottom"
+        },
+        {
+          "id": 32,
+          "question": "Who teaches Care of Magical Creatures at Hogwarts?",
+          "options": ["Professor Binns", "Professor Hagrid", "Professor Trelawney", "Professor Lupin"],
+          "answer": "Professor Hagrid"
+        },
+        {
+          "id": 33,
+          "question": "Which item is used to store memories?",
+          "options": ["Pensieve", "Time-Turner", "Sorting Hat", "Marauder’s Map"],
+          "answer": "Pensieve"
+        },
+        {
+          "id": 34,
+          "question": "What is the name of the wizarding competition in The Goblet of Fire?",
+          "options": ["The Triwizard Tournament", "The Great Wizarding Race", "The Quidditch Cup", "The Magical Games"],
+          "answer": "The Triwizard Tournament"
+        },
+        {
+          "id": 35,
+          "question": "Who is the head of Slytherin House?",
+          "options": ["Severus Snape", "Horace Slughorn", "Minerva McGonagall", "Filius Flitwick"],
+          "answer": "Severus Snape"
+        },
+        {
+          "id": 36,
+          "question": "What is the name of the broomstick that Harry receives for his first Quidditch match?",
+          "options": ["Nimbus 2001", "Firebolt", "Nimbus 2000", "Cleansweep 7"],
+          "answer": "Nimbus 2000"
+        },
+        {
+          "id": 37,
+          "question": "Which character sacrifices himself to save Harry during the Battle of Hogwarts?",
+          "options": ["Fred Weasley", "Remus Lupin", "Severus Snape", "Cedric Diggory"],
+          "answer": "Fred Weasley"
+        },
+        {
+          "id": 38,
+          "question": "What is the name of the Weasley brothers’ joke shop?",
+          "options": ["The Wizard’s Emporium", "The Magical Shop", "Weasleys' Wizard Wheezes", "Zonko’s Joke Shop"],
+          "answer": "Weasleys' Wizard Wheezes"
+        },
+        {
+          "id": 39,
+          "question": "Who is the Half-Blood Prince?",
+          "options": ["Harry Potter", "Severus Snape", "Tom Riddle", "Draco Malfoy"],
+          "answer": "Severus Snape"
+        },
+        {
+          "id": 40,
+          "question": "Which of these is NOT a Horcrux?",
+          "options": ["Tom Riddle’s Diary", "The locket of Salazar Slytherin", "The Sword of Gryffindor", "The diadem of Ravenclaw"],
+          "answer": "The Sword of Gryffindor"
+        },
+        {
+          "id": 41,
+          "question": "What is the name of the three-headed dog that guards the Sorcerer’s Stone?",
+          "options": ["Fluffy", "Buckbeak", "Fang", "Sirius"],
+          "answer": "Fluffy"
+        },
+        {
+          "id": 42,
+          "question": "Who was the first victim of the Basilisk in Chamber of Secrets?",
+          "options": ["Harry Potter", "Ginny Weasley", "Colin Creevey", "Hermione Granger"],
+          "answer": "Colin Creevey"
+        },
+        {
+          "id": 43,
+          "question": "What is the name of the magical object that reveals one’s deepest desires?",
+          "options": ["Mirror of Erised", "Pensieve", "Time-Turner", "Marauder’s Map"],
+          "answer": "Mirror of Erised"
+        },
+        {
+          "id": 44,
+          "question": "Who was the first person Harry saw when he arrived at Diagon Alley?",
+          "options": ["Ron Weasley", "Hermione Granger", "Draco Malfoy", "Hagrid"],
+          "answer": "Hagrid"
+        },
+        {
+          "id": 45,
+          "question": "Which house was Peter Pettigrew in at Hogwarts?",
+          "options": ["Slytherin", "Ravenclaw", "Gryffindor", "Hufflepuff"],
+          "answer": "Gryffindor"
+        },
+        {
+          "id": 46,
+          "question": "Which charm is used to levitate objects?",
+          "options": ["Wingardium Leviosa", "Accio", "Expelliarmus", "Lumos"],
+          "answer": "Wingardium Leviosa"
+        },
+        {
+          "id": 47,
+          "question": "What was the name of Harry’s father?",
+          "options": ["James Potter", "Sirius Black", "Remus Lupin", "Peter Pettigrew"],
+          "answer": "James Potter"
+        },
+        {
+          "id": 48,
+          "question": "What magical object is used to store a person’s memories?",
+          "options": ["Pensieve", "Time-Turner", "Crystal Ball", "Invisibility Cloak"],
+          "answer": "Pensieve"
+        },
+        {
+          "id": 49,
+          "question": "Who was the first person to join Harry in the Forbidden Forest in Chamber of Secrets?",
+          "options": ["Hermione Granger", "Draco Malfoy", "Ron Weasley", "Ginny Weasley"],
+          "answer": "Ron Weasley"
+        },
+        {
+          "id": 50,
+          "question": "Which spell is used to light the tip of a wand?",
+          "options": ["Incendio", "Lumos", "Stupefy", "Leviosa"],
+          "answer": "Lumos"
+        },
+        {
+          "id": 51,
+          "question": "Who was the first person to defeat Voldemort?",
+          "options": ["Albus Dumbledore", "Lily Potter", "Harry Potter", "The Elder Wand"],
+          "answer": "Lily Potter"
+        },
+        {
+          "id": 52,
+          "question": "What is the name of the first magical creature Hagrid introduces Harry to in Philosopher's Stone?",
+          "options": ["Thestral", "Buckbeak", "Dragon", "Troll"],
+          "answer": "Dragon"
+        },
+        {
+          "id": 53,
+          "question": "What is the name of the curse used to control another person’s actions?",
+          "options": ["Imperius Curse", "Cruciatus Curse", "Avada Kedavra", "Sectumsempra"],
+          "answer": "Imperius Curse"
+        },
+        {
+          "id": 54,
+          "question": "Which character is known as the 'Grey Lady' at Hogwarts?",
+          "options": ["Nearly Headless Nick", "Moaning Myrtle", "Helena Ravenclaw", "The Bloody Baron"],
+          "answer": "Helena Ravenclaw"
+        },
+        {
+          "id": 55,
+          "question": "What is the name of the potion that makes the drinker fall in love?",
+          "options": ["Amortentia", "Polyjuice Potion", "Felix Felicis", "Veritaserum"],
+          "answer": "Amortentia"
+        },
+        {
+          "id": 56,
+          "question": "Who was responsible for the murder of Dumbledore?",
+          "options": ["Severus Snape", "Draco Malfoy", "Bellatrix Lestrange", "Fenrir Greyback"],
+          "answer": "Severus Snape"
+        },
+        {
+          "id": 57,
+          "question": "What is the name of the wizarding prison?",
+          "options": ["Azkaban", "Malfoy Manor", "St. Mungo's", "Diagon Alley"],
+          "answer": "Azkaban"
+        },
+        {
+          "id": 58,
+          "question": "Which magical creature is used to guard the vaults at Gringotts Bank?",
+          "options": ["Thestrals", "Dragons", "Nifflers", "Goblins"],
+          "answer": "Dragons"
+        },
+        {
+          "id": 59,
+          "question": "What is the name of the secret group that fights against Voldemort’s forces?",
+          "options": ["Order of the Phoenix", "Death Eaters", "Dumbledore’s Army", "The Marauders"],
+          "answer": "Order of the Phoenix"
+        },
+        {
+          "id": 60,
+          "question": "What was the name of the dark wizard who came before Voldemort?",
+          "options": ["Gellert Grindelwald", "Tom Riddle", "Bellatrix Lestrange", "Lucius Malfoy"],
+          "answer": "Gellert Grindelwald"
+        },
+        {
+          "id": 61,
+          "question": "Which of these characters is NOT a Death Eater?",
+          "options": ["Lucius Malfoy", "Bellatrix Lestrange", "Peter Pettigrew", "Remus Lupin"],
+          "answer": "Remus Lupin"
+        },
+        {
+          "id": 62,
+          "question": "Who was responsible for the creation of the Chamber of Secrets?",
+          "options": ["Salazar Slytherin", "Godric Gryffindor", "Rowena Ravenclaw", "Helga Hufflepuff"],
+          "answer": "Salazar Slytherin"
+        },
+        {
+          "id": 63,
+          "question": "What is the name of the stone used to bring back the dead in The Deathly Hallows?",
+          "options": ["The Resurrection Stone", "The Philosopher’s Stone", "The Eldest Stone", "The Elixir of Life"],
+          "answer": "The Resurrection Stone"
+        },
+        {
+          "id": 64,
+          "question": "What does the word \"Marauder\" refer to in the Harry Potter series?",
+          "options": [
+            "A group of wizards who created the Marauder's Map",
+            "A magical creature",
+            "A term for Dark Wizards",
+            "A title for Hogwarts students"
+          ],
+          "answer": "A group of wizards who created the Marauder's Map"
+        },
+        {
+          "id": 65,
+          "question": "Which item is used to summon someone to another location?",
+          "options": ["Portkey", "Floo Powder", "Apparition", "Time-Turner"],
+          "answer": "Portkey"
+        },
+        {
+          "id": 66,
+          "question": "Who was the first person to give Harry a Christmas present?",
+          "options": ["Sirius Black", "Hermione Granger", "Hagrid", "Ron Weasley"],
+          "answer": "Hagrid"
+        },
+        {
+          "id": 67,
+          "question": "Which curse causes the victim to experience intense pain?",
+          "options": ["Avada Kedavra", "Cruciatus Curse", "Imperius Curse", "Sectumsempra"],
+          "answer": "Cruciatus Curse"
+        },
+        {
+          "id": 68,
+          "question": "What is the name of the magical map created by the Marauders?",
+          "options": ["The Marauder's Map", "The Wizard's Map", "The Map of Hogwarts", "The Magic Compass"],
+          "answer": "The Marauder's Map"
+        },
+        {
+          "id": 69,
+          "question": "Who was the Headmaster of Hogwarts before Albus Dumbledore?",
+          "options": ["Phineas Nigellus Black", "Armando Dippet", "Horace Slughorn", "Severus Snape"],
+          "answer": "Armando Dippet"
+        },
+        {
+          "id": 70,
+          "question": "What type of wood is Harry Potter’s wand made from?",
+          "options": ["Willow", "Oak", "Yew", "Mahogany"],
+          "answer": "Willow"
+        },
+        {
+          "id": 71,
+          "question": "What is the name of the club that Harry, Ron, and Hermione form to fight Voldemort’s army?",
+          "options": ["Dumbledore’s Army", "Order of the Phoenix", "The Death Eaters", "The Resistance"],
+          "answer": "Dumbledore’s Army"
+        },
+        {
+          "id": 72,
+          "question": "Which magical creature guards the entrance to the Gryffindor common room?",
+          "options": ["A Troll", "A Giant Spider", "A Giant Snake", "A Fat Lady"],
+          "answer": "A Fat Lady"
+        },
+        {
+          "id": 73,
+          "question": "What was the name of Voldemort’s snake?",
+          "options": ["Basilisk", "Fluffy", "Nagini", "Aragog"],
+          "answer": "Nagini"
+        },
+        {
+          "id": 74,
+          "question": "What is the last name of the family that adopted Harry?",
+          "options": ["Granger", "Malfoy", "Dursley", "Weasley"],
+          "answer": "Dursley"
+        },
+        {
+          "id": 75,
+          "question": "Who was the founder of the Ravenclaw House at Hogwarts?",
+          "options": ["Rowena Ravenclaw", "Salazar Slytherin", "Godric Gryffindor", "Helga Hufflepuff"],
+          "answer": "Rowena Ravenclaw"
+        }
+      ]
+    },
+    {
+      "movie": "Avatar",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the name of the planet where the events of Avatar take place?",
+          "options": ["Pandora", "Earth", "Mars", "Nebula"],
+          "answer": "Pandora"
+        },
+        {
+          "id": 2,
+          "question": "Who is the main protagonist in the movie Avatar?",
+          "options": ["Jake Sully", "Neytiri", "Colonel Quaritch", "Dr. Grace Augustine"],
+          "answer": "Jake Sully"
+        },
+        {
+          "id": 3,
+          "question": "Which species are the native inhabitants of Pandora?",
+          "options": ["Humans", "Na'vi", "Avatars", "Sky People"],
+          "answer": "Na'vi"
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the flying creature that Jake Sully bonds with in the first movie?",
+          "options": ["Ikran", "Thanator", "Turok", "Banshee"],
+          "answer": "Ikran"
+        },
+        {
+          "id": 5,
+          "question": "In Avatar, what is the main resource that the humans are trying to mine on Pandora?",
+          "options": ["Water", "Unobtanium", "Gold", "Carbon"],
+          "answer": "Unobtanium"
+        },
+        {
+          "id": 6,
+          "question": "Which Na'vi clan does Jake Sully join in Avatar?",
+          "options": ["Omatikaya", "Metkayina", "Tawkami", "Vitraya Ramunong"],
+          "answer": "Omatikaya"
+        },
+        {
+          "id": 7,
+          "question": "What is the name of Jake Sully’s Na'vi avatar in Avatar?",
+          "options": ["Tsu’tey", "Toruk", "Jake's Avatar", "Neytiri's Avatar"],
+          "answer": "Jake's Avatar"
+        },
+        {
+          "id": 8,
+          "question": "Who is Jake Sully's love interest in Avatar?",
+          "options": ["Dr. Grace Augustine", "Mo'at", "Neytiri", "Trudy"],
+          "answer": "Neytiri"
+        },
+        {
+          "id": 9,
+          "question": "What animal does Jake Sully ride during the final battle in Avatar?",
+          "options": ["Thanator", "Direhorse", "Ikran", "Hammerhead"],
+          "answer": "Thanator"
+        },
+        {
+          "id": 10,
+          "question": "What is the name of the human military leader in Avatar?",
+          "options": ["Dr. Grace Augustine", "Colonel Quaritch", "Parker Selfridge", "Jake Sully"],
+          "answer": "Colonel Quaritch"
+        },
+        {
+          "id": 11,
+          "question": "In Avatar: The Way of Water, Jake and Neytiri have how many children?",
+          "options": ["One", "Two", "Three", "Four"],
+          "answer": "Three"
+        },
+        {
+          "id": 12,
+          "question": "What is the name of Jake and Neytiri’s firstborn child in The Way of Water?",
+          "options": ["Lo'ak", "Kiri", "Neteyam", "Spider"],
+          "answer": "Neteyam"
+        },
+        {
+          "id": 13,
+          "question": "Which Na'vi clan do Jake and his family live with in Avatar: The Way of Water?",
+          "options": ["Omatikaya", "Metkayina", "Tawkami", "Vitraya Ramunong"],
+          "answer": "Metkayina"
+        },
+        {
+          "id": 14,
+          "question": "Who is the main antagonist in Avatar: The Way of Water?",
+          "options": ["Colonel Quaritch", "Miles Quaritch (in his Avatar form)", "Dr. Grace Augustine", "Parker Selfridge"],
+          "answer": "Miles Quaritch (in his Avatar form)"
+        },
+        {
+          "id": 15,
+          "question": "What type of creatures are the \"Ilu\" in Avatar: The Way of Water?",
+          "options": ["Floating jellyfish", "Aquatic animals that resemble sea creatures", "Large flying creatures", "Tree-dwelling monkeys"],
+          "answer": "Aquatic animals that resemble sea creatures"
+        },
+        {
+          "id": 16,
+          "question": "In Avatar: The Way of Water, what does Jake Sully’s family primarily do to survive in the new environment?",
+          "options": ["Build weapons", "Engage in mining", "Learn the ways of the ocean", "Destroy the RDA"],
+          "answer": "Learn the ways of the ocean"
+        },
+        {
+          "id": 17,
+          "question": "What is the name of the deadly creature that Jake Sully faces in Avatar: The Way of Water?",
+          "options": ["Turok", "Thanator", "Sea Dragon", "Reptilian Predator"],
+          "answer": "Sea Dragon"
+        },
+        {
+          "id": 18,
+          "question": "What do Jake and Neytiri use to communicate with the animals on Pandora?",
+          "options": ["Words", "Sound", "Physical connection through their hair", "Telepathy"],
+          "answer": "Physical connection through their hair"
+        },
+        {
+          "id": 19,
+          "question": "In Avatar: The Way of Water, how do the humans plan to exploit Pandora’s resources?",
+          "options": ["Harvesting plants", "Mining Unobtanium", "Extracting the essence of the ocean", "Using the creatures for war"],
+          "answer": "Extracting the essence of the ocean"
+        },
+        {
+          "id": 20,
+          "question": "What is the name of the warrior that Jake Sully and Neytiri's children befriend in The Way of Water?",
+          "options": ["Tsu'tey", "Ronal", "Aonung", "Lo'ak"],
+          "answer": "Aonung"
+        },
+        {
+          "id": 21,
+          "question": "What is the significance of the \"Tree of Souls\" in Avatar?",
+          "options": [
+            "It provides Unobtanium",
+            "It is a sacred place where Na'vi connect with their ancestors",
+            "It’s the headquarters of the RDA",
+            "It produces the air needed to breathe on Pandora"
+          ],
+          "answer": "It is a sacred place where Na'vi connect with their ancestors"
+        },
+        {
+          "id": 22,
+          "question": "In Avatar, who is the head scientist at the Avatar program?",
+          "options": ["Colonel Quaritch", "Dr. Grace Augustine", "Parker Selfridge", "Jake Sully"],
+          "answer": "Dr. Grace Augustine"
+        },
+        {
+          "id": 23,
+          "question": "What is the name of Jake Sully’s twin brother, who originally had the Avatar assignment?",
+          "options": ["John", "Tom", "Mark", "Tommy"],
+          "answer": "John"
+        },
+        {
+          "id": 24,
+          "question": "What is the name of the flying creature that Colonel Quaritch uses for reconnaissance in Avatar?",
+          "options": ["Ikran", "Thanator", "Hammerhead", "Raptor"],
+          "answer": "Ikran"
+        },
+        {
+          "id": 25,
+          "question": "Who saves Jake Sully from being killed by a Thanator in Avatar?",
+          "options": ["Neytiri", "Colonel Quaritch", "Dr. Grace Augustine", "Trudy"],
+          "answer": "Neytiri"
+        },
+        {
+          "id": 26,
+          "question": "In Avatar, who leads the RDA's military operations on Pandora?",
+          "options": ["Colonel Quaritch", "Parker Selfridge", "Dr. Grace Augustine", "Jake Sully"],
+          "answer": "Colonel Quaritch"
+        },
+        {
+          "id": 27,
+          "question": "Which animal does Neytiri ride when she first meets Jake Sully?",
+          "options": ["Ikran", "Direhorse", "Thanator", "Skimwing"],
+          "answer": "Direhorse"
+        },
+        {
+          "id": 28,
+          "question": "In Avatar, which Na'vi ritual does Jake Sully complete in order to bond with his Ikran?",
+          "options": ["The Ritual of Fire", "The Bonding of the Sky", "The Rite of Passage", "The Taming of the Ikran"],
+          "answer": "The Taming of the Ikran"
+        },
+        {
+          "id": 29,
+          "question": "Which character is portrayed asan antagonist and is a high-ranking member of the RDA in Avatar: The Way of Water?",
+          "options": ["Colonel Quaritch", "Dr. Grace Augustine", "Spider", "Parker Selfridge"],
+          "answer": "Colonel Quaritch"
+        },
+        {
+          "id": 30,
+          "question": "What is the relationship between the \"Tree of Souls\" and the Na'vi in Avatar?",
+          "options": [
+            "The Na'vi believe it is a source of their spiritual energy",
+            "It is where Na'vi bury their dead",
+            "It is the center of their government",
+            "It is a military base"
+          ],
+          "answer": "The Na'vi believe it is a source of their spiritual energy"
+        },
+        {
+          "id": 31,
+          "question": "In Avatar: The Way of Water, what is the name of Jake and Neytiri's second-born child?",
+          "options": ["Lo'ak", "Kiri", "Spider", "Neteyam"],
+          "answer": "Lo'ak"
+        },
+        {
+          "id": 32,
+          "question": "Who is the Na'vi that helps Jake Sully understand the customs of his new life in Avatar?",
+          "options": ["Neytiri", "Tsu’tey", "Mo'at", "Dr. Grace Augustine"],
+          "answer": "Neytiri"
+        },
+        {
+          "id": 33,
+          "question": "In Avatar: The Way of Water, what is the primary role of the Metkayina clan?",
+          "options": ["Warriors", "Environmentalists", "Healers", "Ocean-dwellers who protect the water ecosystems"],
+          "answer": "Ocean-dwellers who protect the water ecosystems"
+        },
+        {
+          "id": 34,
+          "question": "What does Jake Sully use to track down Colonel Quaritch in Avatar?",
+          "options": ["Ikran", "Satellite signals", "A tracking device", "Neytiri's guidance"],
+          "answer": "A tracking device"
+        },
+        {
+          "id": 35,
+          "question": "What is the name of the large sea creature that Jake Sully and Neytiri's son, Lo'ak, befriends in Avatar: The Way of Water?",
+          "options": ["Skimwing", "Ilu", "Tulkun", "Thanator"],
+          "answer": "Tulkun"
+        },
+        {
+          "id": 36,
+          "question": "In Avatar, what is the significance of \"Eywa\" to the Na'vi?",
+          "options": [
+            "Eywa is their goddess and creator of life",
+            "Eywa is a military general",
+            "Eywa is a technology used by the Na'vi to control the environment",
+            "Eywa is a large tree in their homeland"
+          ],
+          "answer": "Eywa is their goddess and creator of life"
+        },
+        {
+          "id": 37,
+          "question": "In Avatar: The Way of Water, which character dies while protecting their family from the RDA?",
+          "options": ["Neytiri", "Kiri", "Neteyam", "Tsu'tey"],
+          "answer": "Neteyam"
+        },
+        {
+          "id": 38,
+          "question": "In Avatar, which of the following is NOT a weapon used by the RDA against the Na'vi?",
+          "options": ["Gunships", "Explosives", "Fire", "Giant Mechs"],
+          "answer": "Fire"
+        },
+        {
+          "id": 39,
+          "question": "Who does Jake Sully defeat in combat in Avatar to prove himself as a worthy leader?",
+          "options": ["Colonel Quaritch", "Tsu'tey", "Dr. Grace Augustine", "Neytiri"],
+          "answer": "Tsu'tey"
+        },
+        {
+          "id": 40,
+          "question": "In Avatar: The Way of Water, who is the adopted child of Jake and Neytiri?",
+          "options": ["Kiri", "Lo'ak", "Spider", "Neteyam"],
+          "answer": "Spider"
+        },
+        {
+          "id": 41,
+          "question": "In Avatar, which human character is the leader of the RDA's mining operation on Pandora?",
+          "options": ["Parker Selfridge", "Colonel Quaritch", "Dr. Grace Augustine", "Dr. Norm Spellman"],
+          "answer": "Parker Selfridge"
+        },
+        {
+          "id": 42,
+          "question": "In Avatar: The Way of Water, what happens to Jake Sully's family when they are discovered by the RDA?",
+          "options": [
+            "They escape by flying away on Ikrans",
+            "They fight back in the ocean",
+            "They are captured and taken to the human base",
+            "They flee to the forest"
+          ],
+          "answer": "They fight back in the ocean"
+        },
+        {
+          "id": 43,
+          "question": "In Avatar: The Way of Water, which ocean creature helps Jake and Neytiri escape from the RDA forces?",
+          "options": ["Ilu", "Tulkun", "Skimwing", "Thanator"],
+          "answer": "Tulkun"
+        },
+        {
+          "id": 44,
+          "question": "What does Jake Sully use in Avatar to defend the Tree of Souls from destruction?",
+          "options": ["His Avatar body", "Explosives", "The power of the Na'vi", "A huge army of war machines"],
+          "answer": "The power of the Na'vi"
+        },
+        {
+          "id": 45,
+          "question": "In Avatar, what does Colonel Quaritch believe is the key to subduing the Na'vi?",
+          "options": ["Technology", "Diplomacy", "Violence", "Negotiation"],
+          "answer": "Violence"
+        },
+        {
+          "id": 46,
+          "question": "In Avatar: The Way of Water, what is the primary goal of Colonel Quaritch’s mission on Pandora?",
+          "options": ["To find the Tree of Souls", "To capture Jake Sully", "To establish a new colony", "To mine Unobtanium"],
+          "answer": "To capture Jake Sully"
+        },
+        {
+          "id": 47,
+          "question": "Who is the Na'vi leader of the Metkayina clan in Avatar: The Way of Water?",
+          "options": ["Mo'at", "Ronal", "Tsu'tey", "Tonowari"],
+          "answer": "Tonowari"
+        },
+        {
+          "id": 48,
+          "question": "Which human character is resurrected in the Avatar form in Avatar: The Way of Water?",
+          "options": ["Colonel Quaritch", "Dr. Grace Augustine", "Parker Selfridge", "Trudy Chacón"],
+          "answer": "Colonel Quaritch"
+        },
+        {
+          "id": 49,
+          "question": "In Avatar, which Na'vi is selected to be the new leader of the Omatikaya clan after the defeat of the humans?",
+          "options": ["Tsu'tey", "Jake Sully", "Neytiri", "Mo'at"],
+          "answer": "Jake Sully"
+        },
+        {
+          "id": 50,
+          "question": "What does Jake Sully learn about Pandora’s ecosystem during the events of Avatar?",
+          "options": [
+            "It is being destroyed by the RDA",
+            "It is interconnected with life through Eywa",
+            "It is highly dangerous and uninhabitable",
+            "It is mostly uninhabited"
+          ],
+          "answer": "It is interconnected with life through Eywa"
+        },
+        {
+          "id": 51,
+          "question": "In Avatar: The Way of Water, which new character becomes close to Jake Sully’s family and joins their fight?",
+          "options": ["Spider", "Kiri", "Aonung", "Dr. Grace Augustine"],
+          "answer": "Spider"
+        },
+        {
+          "id": 52,
+          "question": "Which animal is Jake Sully’s primary means of transport in Avatar?",
+          "options": ["Ikran", "Direhorse", "Thanator", "Turok"],
+          "answer": "Ikran"
+        },
+        {
+          "id": 53,
+          "question": "What key lesson does Jake Sully learn about his new life in Avatar?",
+          "options": ["To fight for money", "To be a leader", "To connect with nature", "To ignore his past"],
+          "answer": "To connect with nature"
+        },
+        {
+          "id": 54,
+          "question": "What kind of environment does the Metkayina clan in Avatar: The Way of Water live in?",
+          "options": ["The mountains", "The oceans", "The forests", "The desert"],
+          "answer": "The oceans"
+        },
+        {
+          "id": 55,
+          "question": "In Avatar: The Way of Water, what happens to Jake Sully’s family when they flee from the human forces?",
+          "options": ["They are captured", "They return to the forest", "They are trained in combat", "They escape to the ocean"],
+          "answer": "They escape to the ocean"
+        }
+      ]
+    },
+  
+    {
+      "movie": "Jungle Book",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who is the main character in The Jungle Book?",
+          "options": ["Shere Khan", "Mowgli", "Baloo", "Bagheera"],
+          "answer": "Mowgli"
+        },
+        {
+          "id": 2,
+          "question": "What type of animal is Baloo in The Jungle Book?",
+          "options": ["A bear", "A tiger", "A panther", "A wolf"],
+          "answer": "A bear"
+        },
+        {
+          "id": 3,
+          "question": "Who raises Mowgli in the jungle?",
+          "options": ["Wolves", "Bears", "Tigers", "Monkeys"],
+          "answer": "Wolves"
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the tiger that wants to kill Mowgli?",
+          "options": ["Shere Khan", "Tabaqui", "Kaa", "Baloo"],
+          "answer": "Shere Khan"
+        },
+        {
+          "id": 5,
+          "question": "Which animal is Mowgli’s best friend in the jungle?",
+          "options": ["Bagheera", "Shere Khan", "Kaa", "Baloo"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 6,
+          "question": "In The Jungle Book, who is Mowgli’s adoptive wolf mother?",
+          "options": ["Raksha", "Tabaqui", "Akela", "Kaa"],
+          "answer": "Raksha"
+        },
+        {
+          "id": 7,
+          "question": "Which animal helps Mowgli escape from Shere Khan in The Jungle Book?",
+          "options": ["Bagheera", "Baloo", "Kaa", "King Louie"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 8,
+          "question": "What is the name of the monkey king who tries to steal Mowgli from the jungle?",
+          "options": ["King Louie", "Tabaqui", "Akela", "Mowgli’s Father"],
+          "answer": "King Louie"
+        },
+        {
+          "id": 9,
+          "question": "In The Jungle Book, what is the song \"The Bare Necessities\" about?",
+          "options": ["The simple joys of life", "How to fight", "The importance of leadership", "The importance of food"],
+          "answer": "The simple joys of life"
+        },
+        {
+          "id": 10,
+          "question": "What animal is Kaa in The Jungle Book?",
+          "options": ["A snake", "A tiger", "A wolf", "A bear"],
+          "answer": "A snake"
+        },
+        {
+          "id": 11,
+          "question": "Which animal is the leader of the wolf pack in The Jungle Book?",
+          "options": ["Akela", "Raksha", "Bagheera", "Shere Khan"],
+          "answer": "Akela"
+        },
+        {
+          "id": 12,
+          "question": "What is Mowgli’s reaction when he first meets Shere Khan in The Jungle Book?",
+          "options": ["He is frightened", "He befriends him", "He runs away", "He tries to fight him"],
+          "answer": "He is frightened"
+        },
+        {
+          "id": 13,
+          "question": "What is the name of the jungle where Mowgli lives?",
+          "options": ["The Forbidden Jungle", "The Indian Jungle", "The Jungle of the Moon", "The Secluded Jungle"],
+          "answer": "The Indian Jungle"
+        },
+        {
+          "id": 14,
+          "question": "Which character sings the song “I Wan'na Be Like You” in The Jungle Book?",
+          "options": ["King Louie", "Mowgli", "Baloo", "Shere Khan"],
+          "answer": "King Louie"
+        },
+        {
+          "id": 15,
+          "question": "What does Mowgli use to start a fire in The Jungle Book?",
+          "options": ["Flint and steel", "A match", "A burning stick", "A torch"],
+          "answer": "Flint and steel"
+        },
+        {
+          "id": 16,
+          "question": "In The Jungle Book, what animal does Mowgli use to cross a river?",
+          "options": ["Elephant", "Crocodile", "Baloo", "Snake"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 17,
+          "question": "What is the name of Mowgli’s biological family?",
+          "options": ["The Man Village", "The Jungle Tribe", "The Bagheera Clan", "The Shere Khan Family"],
+          "answer": "The Man Village"
+        },
+        {
+          "id": 18,
+          "question": "Who is the antagonist in The Jungle Book?",
+          "options": ["Shere Khan", "Mowgli’s father", "Raksha", "Baloo"],
+          "answer": "Shere Khan"
+        },
+        {
+          "id": 19,
+          "question": "Which animal is known for its hypnotic powers in The Jungle Book?",
+          "options": ["Kaa", "Bagheera", "Shere Khan", "Tabaqui"],
+          "answer": "Kaa"
+        },
+        {
+          "id": 20,
+          "question": "In The Jungle Book, who teaches Mowgli how to live in the jungle?",
+          "options": ["Raksha", "Akela", "Baloo", "Tabaqui"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 21,
+          "question": "What is the primary food source that Baloo teaches Mowgli about?",
+          "options": ["Honey", "Fish", "Fruits and berries", "Meat"],
+          "answer": "Honey"
+        },
+        {
+          "id": 22,
+          "question": "In The Jungle Book, who was Mowgli’s original teacher and protector?",
+          "options": ["Shere Khan", "Bagheera", "Baloo", "Kaa"],
+          "answer": "Bagheera"
+        },
+        {
+          "id": 23,
+          "question": "What does Mowgli do when he is first kidnapped by the monkeys in The Jungle Book?",
+          "options": ["He tries to escape", "He befriends the monkeys", "He calls for help", "He accepts his fate"],
+          "answer": "He tries to escape"
+        },
+        {
+          "id": 24,
+          "question": "Which animal does Mowgli ride on in The Jungle Book to escape from the monkeys?",
+          "options": ["Elephant", "Tiger", "Baloo", "Wolf"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 25,
+          "question": "What does the red flower symbolize in The Jungle Book?",
+          "options": ["Fire", "Love", "A curse", "Power"],
+          "answer": "Fire"
+        },
+        {
+          "id": 26,
+          "question": "Who is the first character to warn Mowgli about Shere Khan’s dangerous nature?",
+          "options": ["Akela", "Baloo", "Raksha", "Bagheera"],
+          "answer": "Bagheera"
+        },
+        {
+          "id": 27,
+          "question": "In The Jungle Book, who leads the Bandar-log (monkey tribe)?",
+          "options": ["Tabaqui", "King Louie", "Shere Khan", "Akela"],
+          "answer": "King Louie"
+        },
+        {
+          "id": 28,
+          "question": "What advice does Bagheera give Mowgli in The Jungle Book?",
+          "options": ["To always trust his instincts", "To never trust humans", "To stay in the jungle forever", "To return to the human village"],
+          "answer": "To return to the human village"
+        },
+        {
+          "id": 29,
+          "question": "In the 2016 The Jungle Book, who voices Mowgli?",
+          "options": ["Neel Sethi", "Bill Murray", "Ben Kingsley", "Idris Elba"],
+          "answer": "Neel Sethi"
+        },
+        {
+          "id": 30,
+          "question": "Which animal is NOT a part of the wolf pack in The Jungle Book?",
+          "options": ["Raksha", "Akela", "Baloo", "Mowgli"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 31,
+          "question": "Which animal does Mowgli first encounter in the jungle in The Jungle Book?",
+          "options": ["Shere Khan", "Kaa", "Bagheera", "Tabaqui"],
+          "answer": "Bagheera"
+        },
+        {
+          "id": 32,
+          "question": "Who are the first animals to help Mowgli when he is being hunted by Shere Khan?",
+          "options": ["The elephants", "The wolves", "The monkeys", "The tigers"],
+          "answer": "The wolves"
+        },
+        {
+          "id": 33,
+          "question": "Which animal tries to hypnotize Mowgli in The Jungle Book?",
+          "options": ["Shere Khan", "King Louie", "Kaa", "Tabaqui"],
+          "answer": "Kaa"
+        },
+        {
+          "id": 34,
+          "question": "In the 1967 animated version, who provides the voice of Shere Khan?",
+          "options": ["George Sanders", "Bill Murray", "Idris Elba", "Christopher Walken"],
+          "answer": "George Sanders"
+        },
+        {
+          "id": 35,
+          "question": "In The Jungle Book, who does Mowgli confront at the end of the movie?",
+          "options": ["Akela", "Shere Khan", "King Louie", "Kaa"],
+          "answer": "Shere Khan"
+        },
+        {
+          "id": 36,
+          "question": "What animal is King Louie in The Jungle Book?",
+          "options": ["A tiger", "A bear", "A monkey", "A panther"],
+          "answer": "A monkey"
+        },
+        {
+          "id": 37,
+          "question": "In The Jungle Book, how does Mowgli manage to escape from King Louie’s palace?",
+          "options": ["With the help of Baloo", "By starting a fire", "By calling for help", "By climbing a tree"],
+          "answer": "By starting a fire"
+        },
+        {
+          "id": 38,
+          "question": "Which animal sings the song \"Trust in Me\" in The Jungle Book?",
+          "options": ["Shere Khan", "King Louie", "Mowgli", "Kaa"],
+          "answer": "Kaa"
+        },
+        {
+          "id": 39,
+          "question": "In The Jungle Book, who is responsible for keeping order in the jungle?",
+          "options": ["Akela", "Shere Khan", "Bagheera", "Raksha"],
+          "answer": "Akela"
+        },
+        {
+          "id": 40,
+          "question": "Which character is often considered the \"King\" of the jungle in The Jungle Book?",
+          "options": ["Mowgli", "Akela", "Shere Khan", "Bagheera"],
+          "answer": "Shere Khan"
+        },
+        {
+          "id": 41,
+          "question": "Who wrote the original The Jungle Book stories?",
+          "options": ["Mark Twain", "Rudyard Kipling", "J.R.R. Tolkien", "Charles Dickens"],
+          "answer": "Rudyard Kipling"
+        },
+        {
+          "id": 42,
+          "question": "What is the main conflict in the story of The Jungle Book?",
+          "options": [
+            "Mowgli’s struggle to learn jungle law",
+            "Mowgli’s fight against Shere Khan",
+            "The battle for the jungle’s territory",
+            "Mowgli’s return to the human world"
+          ],
+          "answer": "Mowgli’s fight against Shere Khan"
+        },
+        {
+          "id": 43,
+          "question": "What does the term \"Red Flower\" refer to in The Jungle Book?",
+          "options": ["A mystical jungle plant", "Fire", "A type of fruit", "A flower symbolizing power"],
+          "answer": "Fire"
+        },
+        {
+          "id": 44,
+          "question": "Which of these animals is NOT part of Mowgli’s wolf pack in The Jungle Book?",
+          "options": ["Akela", "Raksha", "Tabaqui", "Mowgli"],
+          "answer": "Tabaqui"
+        },
+        {
+          "id": 45,
+          "question": "In the 2016 film The Jungle Book, who voices the character of Bagheera?",
+          "options": ["Idris Elba", "Bill Murray", "Ben Kingsley", "Christopher Walken"],
+          "answer": "Ben Kingsley"
+        },
+        {
+          "id": 46,
+          "question": "Which animal saves Mowgli from Shere Khan at the end of The Jungle Book?",
+          "options": ["Baloo", "Bagheera", "Raksha", "Akela"],
+          "answer": "Akela"
+        },
+        {
+          "id": 47,
+          "question": "What event marks the turning point for Mowgli in his fight with Shere Khan?",
+          "options": ["The discovery of fire", "His departure from the jungle", "His initiation into the wolf pack", "His encounter with King Louie"],
+          "answer": "The discovery of fire"
+        },
+        {
+          "id": 48,
+          "question": "In the original Jungle Book stories, what is the name of Mowgli's father?",
+          "options": ["John", "Sam", "Rikki", "Messua"],
+          "answer": "Rikki"
+        },
+        {
+          "id": 49,
+          "question": "What is the role of the elephants in The Jungle Book?",
+          "options": ["Leaders of the jungle", "Protectors of the jungle’s sacred law", "Mowgli's closest allies", "Mowgli’s enemies"],
+          "answer": "Protectors of the jungle’s sacred law"
+        },
+        {
+          "id": 50,
+          "question": "In The Jungle Book, how does Mowgli react to learning about his human origins?",
+          "options": ["He rejects the jungle", "He embraces it fully", "He is confused but curious", "He flees to the human village"],
+          "answer": "He is confused but curious"
+        },
+        {
+          "id": 51,
+          "question": "In The Jungle Book, what does Mowgli use to defeat Shere Khan?",
+          "options": ["A sword", "A spear", "Fire", "A bow and arrow"],
+          "answer": "Fire"
+        },
+        {
+          "id": 52,
+          "question": "What animal teaches Mowgli the law of the jungle in The Jungle Book?",
+          "options": ["Raksha", "Baloo", "Akela", "Shere Khan"],
+          "answer": "Akela"
+        },
+        {
+          "id": 53,
+          "question": "In The Jungle Book, who was originally responsible for Mowgli's safety when he was a child?",
+          "options": ["Baloo", "Shere Khan", "Akela", "Bagheera"],
+          "answer": "Akela"
+        },
+        {
+          "id": 54,
+          "question": "In The Jungle Book, what does the \"law of the jungle\" refer to?",
+          "options": [
+            "The rules for survival in the jungle",
+            "The rules that govern animal behavior",
+            "A sacred code of conduct for all creatures",
+            "Mowgli's personal code of honor"
+          ],
+          "answer": "The rules that govern animal behavior"
+        },
+        {
+          "id": 55,
+          "question": "What is the name of the group of monkeys that kidnaps Mowgli in The Jungle Book?",
+          "options": ["Bandar-log", "Raksha", "Mowgli’s Tribe", "Kaa’s Tribe"],
+          "answer": "Bandar-log"
+        },
+        {
+          "id": 56,
+          "question": "Which character is voiced by Bill Murray in the 2016 The Jungle Book?",
+          "options": ["Shere Khan", "Baloo", "Bagheera", "King Louie"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 57,
+          "question": "Who warns Mowgli about Shere Khan’s dangerous nature in The Jungle Book?",
+          "options": ["Raksha", "Baloo", "Bagheera", "King Louie"],
+          "answer": "Bagheera"
+        },
+        {
+          "id": 58,
+          "question": "What is the significance of the red flower in The Jungle Book?",
+          "options": [
+            "It symbolizes Mowgli’s connection to humanity",
+            "It is a dangerous plant in the jungle",
+            "It represents Shere Khan’s power",
+            "It is a sacred symbol to the jungle animals"
+          ],
+          "answer": "It symbolizes Mowgli’s connection to humanity"
+        },
+        {
+          "id": 59,
+          "question": "What did Mowgli use to make fire in the 2016 live-action version of The Jungle Book?",
+          "options": ["A flint stone", "His hands", "A match", "A burning stick"],
+          "answer": "A flint stone"
+        },
+        {
+          "id": 60,
+          "question": "Who voiced the character of Shere Khan in the 2016 live-action version of The Jungle Book?",
+          "options": ["Idris Elba", "Bill Murray", "Christopher Walken", "Ben Kingsley"],
+          "answer": "Idris Elba"
+        },
+        {
+          "id": 61,
+          "question": "What is the main purpose of the fire Mowgli creates in The Jungle Book?",
+          "options": ["To catch fish", "To signal for help", "To protect himself from Shere Khan", "To cook food"],
+          "answer": "To protect himself from Shere Khan"
+        },
+        {
+          "id": 62,
+          "question": "Which character sings the song “I Wan’na Be Like You” in The Jungle Book?",
+          "options": ["Mowgli", "Baloo", "King Louie", "Shere Khan"],
+          "answer": "King Louie"
+        },
+        {
+          "id": 63,
+          "question": "In The Jungle Book, which animal tells Mowgli not to trust Shere Khan?",
+          "options": ["Bagheera", "Baloo", "King Louie", "Raksha"],
+          "answer": "Bagheera"
+        },
+        {
+          "id": 64,
+          "question": "In The Jungle Book, what does Mowgli use to protect himself from Shere Khan?",
+          "options": ["A sword", "A bow and arrow", "Fire", "A spear"],
+          "answer": "Fire"
+        },
+        {
+          "id": 65,
+          "question": "Which animal teaches Mowgli the \"Bare Necessities\" of life in The Jungle Book?",
+          "options": ["Bagheera", "Shere Khan", "Baloo", "Kaa"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 66,
+          "question": "In The Jungle Book, what animal leads the council of the jungle that decides Mowgli’s fate?",
+          "options": ["Baloo", "Akela", "Raksha", "Shere Khan"],
+          "answer": "Akela"
+        },
+        {
+          "id": 67,
+          "question": "What is the name of Mowgli’s biological mother in The Jungle Book?",
+          "options": ["Raksha", "Messua", "Kaa", "Kala"],
+          "answer": "Messua"
+        },
+        {
+          "id": 68,
+          "question": "What role does King Louie play in The Jungle Book?",
+          "options": [
+            "He is a king of the monkeys",
+            "He is Mowgli’s ally",
+            "He is the protector of the jungle",
+            "He is an antagonist who kidnaps Mowgli"
+          ],
+          "answer": "He is a king of the monkeys"
+        },
+        {
+          "id": 69,
+          "question": "In the original Jungle Book stories, what is the name of the tiger that raised Mowgli?",
+          "options": ["Shere Khan", "Kaa", "Tabaqui", "Rikki"],
+          "answer": "Shere Khan"
+        },
+        {
+          "id": 70,
+          "question": "In The Jungle Book, which animal is most concerned about the safety of Mowgli when Shere Khan returns to the jungle?",
+          "options": ["Raksha", "Bagheera", "Akela", "Baloo"],
+          "answer": "Bagheera"
+        },
+        {
+          "id": 71,
+          "question": "What is the ultimate lesson Mowgli learns in The Jungle Book?",
+          "options": [
+            "The importance of family",
+            "How to become a better leader",
+            "The value of fire",
+            "The law of the jungle and finding his place in both worlds"
+          ],
+          "answer": "The law of the jungle and finding his place in both worlds"
+        },
+        {
+          "id": 72,
+          "question": "In the 1967 animated The Jungle Book, who provides the voice for Baloo?",
+          "options": ["Phil Harris", "Bill Murray", "George Sanders", "Paul Winchell"],
+          "answer": "Phil Harris"
+        },
+        {
+          "id": 73,
+          "question": "Which animal tries to hypnotize Mowgli into following them in The Jungle Book?",
+          "options": ["Kaa", "Bagheera", "Shere Khan", "Tabaqui"],
+          "answer": "Kaa"
+        },
+        {
+          "id": 74,
+          "question": "Which character is a symbol of friendship and care to Mowgli in The Jungle Book?",
+          "options": ["Bagheera", "Baloo", "Shere Khan", "Raksha"],
+          "answer": "Baloo"
+        },
+        {
+          "id": 75,
+          "question": "In the 2016 live-action film, who voiced the character of King Louie?",
+          "options": ["Christopher Walken", "Idris Elba", "Bill Murray", "Ben Kingsley"],
+          "answer": "Christopher Walken"
+        }
+      ]
+    },
+    {
+      "movie": "Avengers",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who is the leader of the Avengers in the first Avengers movie?",
+          "options": ["Iron Man", "Captain America", "Thor", "Hulk"],
+          "answer": "Captain America"
+        },
+        {
+          "id": 2,
+          "question": "What is Thor’s hammer called?",
+          "options": ["Mjolnir", "Stormbreaker", "Hammer of Justice", "Thunderstrike"],
+          "answer": "Mjolnir"
+        },
+        {
+          "id": 3,
+          "question": "What is the real name of Iron Man?",
+          "options": ["Steve Rogers", "Tony Stark", "Bruce Banner", "Clint Barton"],
+          "answer": "Tony Stark"
+        },
+        {
+          "id": 4,
+          "question": "Which Avenger is known for his super soldier serum-enhanced strength and agility?",
+          "options": ["Thor", "Hulk", "Captain America", "Hawkeye"],
+          "answer": "Captain America"
+        },
+        {
+          "id": 5,
+          "question": "Which character is played by Scarlett Johansson?",
+          "options": ["Scarlet Witch", "Black Widow", "Gamora", "Peggy Carter"],
+          "answer": "Black Widow"
+        },
+        {
+          "id": 6,
+          "question": "What is the name of Black Panther's alter ego?",
+          "options": ["T'Challa", "Shuri", "Erik Killmonger", "Okoye"],
+          "answer": "T'Challa"
+        },
+        {
+          "id": 7,
+          "question": "Which Infinity Stone does Loki’s scepter contain in The Avengers?",
+          "options": ["Power Stone", "Mind Stone", "Space Stone", "Time Stone"],
+          "answer": "Mind Stone"
+        },
+        {
+          "id": 8,
+          "question": "What is the name of Thor’s brother, who is also the villain in the first Thor movie?",
+          "options": ["Loki", "Heimdall", "Hela", "Fandral"],
+          "answer": "Loki"
+        },
+        {
+          "id": 9,
+          "question": "Who was the first Avenger to join the team in the Marvel Cinematic Universe (MCU)?",
+          "options": ["Iron Man", "Captain America", "Thor", "Black Widow"],
+          "answer": "Iron Man"
+        },
+        {
+          "id": 10,
+          "question": "Which character is known for his bow and arrow skills?",
+          "options": ["Iron Man", "Thor", "Black Widow", "Hawkeye"],
+          "answer": "Hawkeye"
+        },
+        {
+          "id": 11,
+          "question": "What is the name of Captain America’s shield?",
+          "options": ["The Shield of Freedom", "Vibranium Shield", "Cap’s Shield", "Captain's Shield"],
+          "answer": "Vibranium Shield"
+        },
+        {
+          "id": 12,
+          "question": "Which movie introduced the character of Spider-Man in the MCU?",
+          "options": ["Captain America: Civil War", "Avengers: Age of Ultron", "Spider-Man: Homecoming", "Iron Man 3"],
+          "answer": "Captain America: Civil War"
+        },
+        {
+          "id": 13,
+          "question": "Which villain is the main antagonist in Avengers: Endgame?",
+          "options": ["Ultron", "Loki", "Thanos", "Hela"],
+          "answer": "Thanos"
+        },
+        {
+          "id": 14,
+          "question": "Who plays the role of the Hulk in the MCU?",
+          "options": ["Chris Hemsworth", "Chris Evans", "Mark Ruffalo", "Robert Downey Jr."],
+          "answer": "Mark Ruffalo"
+        },
+        {
+          "id": 15,
+          "question": "Who was the first character to say \"I am Iron Man\" in the MCU?",
+          "options": ["Tony Stark", "Steve Rogers", "Peter Parker", "Nick Fury"],
+          "answer": "Tony Stark"
+        },
+        {
+          "id": 16,
+          "question": "What is the name of the team formed by the Avengers in Avengers: Age of Ultron?",
+          "options": ["S.H.I.E.L.D.", "The New Avengers", "The Young Avengers", "The Mighty Avengers"],
+          "answer": "The New Avengers"
+        },
+        {
+          "id": 17,
+          "question": "Which Avenger was trained as an assassin by the Red Room?",
+          "options": ["Black Widow", "Scarlet Witch", "Gamora", "Captain Marvel"],
+          "answer": "Black Widow"
+        },
+        {
+          "id": 18,
+          "question": "What is the name of Black Panther's sister who is also a genius inventor?",
+          "options": ["Shuri", "Nakia", "Okoye", "Mantis"],
+          "answer": "Shuri"
+        },
+        {
+          "id": 19,
+          "question": "Who sacrificed himself to obtain the Soul Stone in Avengers: Infinity War?",
+          "options": ["Tony Stark", "Captain America", "Black Widow", "Gamora"],
+          "answer": "Gamora"
+        },
+        {
+          "id": 20,
+          "question": "Which superhero is also known as the \"Sorcerer Supreme\"?",
+          "options": ["Thor", "Doctor Strange", "Captain Marvel", "Ant-Man"],
+          "answer": "Doctor Strange"
+        },
+        {
+          "id": 21,
+          "question": "What is the name of the artificial intelligence in Tony Stark's suit?",
+          "options": ["J.A.R.V.I.S.", "Friday", "Vision", "Ultron"],
+          "answer": "J.A.R.V.I.S."
+        },
+        {
+          "id": 22,
+          "question": "Who is the main antagonist in Avengers: Age of Ultron?",
+          "options": ["Loki", "Thanos", "Ultron", "Ronan the Accuser"],
+          "answer": "Ultron"
+        },
+        {
+          "id": 23,
+          "question": "Which Avenger can manipulate reality using the Reality Stone in Avengers: Infinity War?",
+          "options": ["Doctor Strange", "Scarlet Witch", "Thor", "Loki"],
+          "answer": "Scarlet Witch"
+        },
+        {
+          "id": 24,
+          "question": "Which actor plays the role of Thor?",
+          "options": ["Chris Hemsworth", "Chris Evans", "Mark Ruffalo", "Tom Hiddleston"],
+          "answer": "Chris Hemsworth"
+        },
+        {
+          "id": 25,
+          "question": "Who was the last hero to join the Avengers team in Avengers: Endgame?",
+          "options": ["Captain America", "Hulk", "Spider-Man", "Captain Marvel"],
+          "answer": "Captain Marvel"
+        },
+        {
+          "id": 26,
+          "question": "What is the name of the group that Black Panther leads in Wakanda?",
+          "options": ["The Dora Milaje", "The Avengers", "The X-Men", "The Defenders"],
+          "answer": "The Dora Milaje"
+        },
+        {
+          "id": 27,
+          "question": "What is the name of the alien race that Loki leads to attack Earth in The Avengers?",
+          "options": ["Kree", "Chitauri", "Skrulls", "Asgardians"],
+          "answer": "Chitauri"
+        },
+        {
+          "id": 28,
+          "question": "What does S.H.I.E.L.D. stand for?",
+          "options": [
+            "Superhuman Investigation and Electronic Law Division",
+            "Strategic Homeland Intervention, Enforcement, and Logistics Division",
+            "Special Homeland Intelligence and Espionage Logistics Division",
+            "Secret Homeland Intelligence and Enforcement League"
+          ],
+          "answer": "Strategic Homeland Intervention, Enforcement, and Logistics Division"
+        },
+        {
+          "id": 29,
+          "question": "Who is the villain in Avengers: Infinity War?",
+          "options": ["Loki", "Thanos", "Ultron", "Ronan"],
+          "answer": "Thanos"
+        },
+        {
+          "id": 30,
+          "question": "Who does Captain America fight in Captain America: Civil War?",
+          "options": ["Thanos", "Tony Stark", "Loki", "Ultron"],
+          "answer": "Tony Stark"
+        },
+        {
+          "id": 31,
+          "question": "Which Avenger did Hulk battle in Avengers: Age of Ultron?",
+          "options": ["Black Widow", "Thor", "Iron Man", "Captain America"],
+          "answer": "Iron Man"
+        },
+        {
+          "id": 32,
+          "question": "What is the name of the sword used by Thanos to defeat the Avengers?",
+          "options": ["Sword of Thanos", "The Black Blade", "The Double-edged Sword", "The Eternal Sword"],
+          "answer": "The Black Blade"
+        },
+        {
+          "id": 33,
+          "question": "Which character says, \"I’m always angry\"?",
+          "options": ["Thor", "Tony Stark", "Bruce Banner", "Captain America"],
+          "answer": "Bruce Banner"
+        },
+        {
+          "id": 34,
+          "question": "Who was responsible for creating Ultron?",
+          "options": ["Tony Stark and Bruce Banner", "Tony Stark and Steve Rogers", "Hank Pym", "Loki"],
+          "answer": "Tony Stark and Bruce Banner"
+        },
+        {
+          "id": 35,
+          "question": "Who was the villain in Avengers: Age of Ultron?",
+          "options": ["Loki", "Ronan the Accuser", "Ultron", "Hela"],
+          "answer": "Ultron"
+        },
+        {
+          "id": 36,
+          "question": "What was the name of the movie where Thor and Hulk fought in a gladiator match?",
+          "options": ["Thor: Ragnarok", "Avengers: Endgame", "Avengers: Infinity War", "Captain America: Civil War"],
+          "answer": "Thor: Ragnarok"
+        },
+        {
+          "id": 37,
+          "question": "Who plays the role of the villain Thanos?",
+          "options": ["Josh Brolin", "Tom Hiddleston", "Chris Hemsworth", "Mark Ruffalo"],
+          "answer": "Josh Brolin"
+        },
+        {
+          "id": 38,
+          "question": "What is the name of Thor’s sister, who is the villain in Thor: Ragnarok?",
+          "options": ["Hela", "Freya", "Sif", "Valkyrie"],
+          "answer": "Hela"
+        },
+        {
+          "id": 39,
+          "question": "Which Avenger has the ability to shrink and grow in size?",
+          "options": ["Ant-Man", "Spider-Man", "Black Widow", "Doctor Strange"],
+          "answer": "Ant-Man"
+        },
+        {
+          "id": 40,
+          "question": "What is the name of the group of superheroes in Guardians of the Galaxy?",
+          "options": ["The Avengers", "The Defenders", "The Guardians of the Galaxy", "The XMen"],
+          "answer": "The Guardians of the Galaxy"
+        },
+        {
+          "id": 41,
+          "question": "Who is the first character to wield the Infinity Gauntlet?",
+          "options": ["Loki", "Thanos", "Iron Man", "Vision"],
+          "answer": "Thanos"
+        },
+        {
+          "id": 42,
+          "question": "Who is Captain America's best friend?",
+          "options": ["Bucky Barnes", "Sam Wilson", "Tony Stark", "Clint Barton"],
+          "answer": "Bucky Barnes"
+        },
+        {
+          "id": 43,
+          "question": "What is the name of Black Panther’s suit material?",
+          "options": ["Vibranium", "Adamantium", "Steel", "Uru"],
+          "answer": "Vibranium"
+        },
+        {
+          "id": 44,
+          "question": "What is the name of the movie that introduces the character of Doctor Strange?",
+          "options": ["Doctor Strange", "Avengers: Infinity War", "Captain America: Civil War", "Thor: Ragnarok"],
+          "answer": "Doctor Strange"
+        },
+        {
+          "id": 45,
+          "question": "What is the name of Captain America's shield's composition?",
+          "options": ["Steel", "Vibranium", "Adamantium", "Titanium"],
+          "answer": "Vibranium"
+        },
+        {
+          "id": 46,
+          "question": "Who is the main villain in Avengers: Infinity War?",
+          "options": ["Loki", "Ultron", "Thanos", "Red Skull"],
+          "answer": "Thanos"
+        },
+        {
+          "id": 47,
+          "question": "What is the name of the technology that allows Ant-Man to shrink and grow?",
+          "options": ["Pym Particles", "Stark Tech", "Vibranium", "Quantum Energy"],
+          "answer": "Pym Particles"
+        },
+        {
+          "id": 48,
+          "question": "Which character says the line, \"I can do this all day\"?",
+          "options": ["Captain America", "Iron Man", "Thor", "Black Panther"],
+          "answer": "Captain America"
+        },
+        {
+          "id": 49,
+          "question": "Who was the first character to say, \"I am Groot\"?",
+          "options": ["Rocket Raccoon", "Star-Lord", "Groot", "Drax"],
+          "answer": "Groot"
+        },
+        {
+          "id": 50,
+          "question": "What is the name of the first Avengers movie?",
+          "options": ["The Avengers", "Avengers: Endgame", "Avengers: Infinity War", "Age of Ultron"],
+          "answer": "The Avengers"
+        },
+        {
+          "id": 51,
+          "question": "Who said the line, \"You get hurt, hurt 'em back. You get killed... walk it off\"?",
+          "options": ["Captain America", "Iron Man", "Nick Fury", "Black Widow"],
+          "answer": "Nick Fury"
+        },
+        {
+          "id": 52,
+          "question": "Who is the main antagonist in Guardians of the Galaxy Vol. 2?",
+          "options": ["Ego", "Thanos", "Ronan", "Hela"],
+          "answer": "Ego"
+        },
+        {
+          "id": 53,
+          "question": "What is the name of the company run by Tony Stark?",
+          "options": ["Stark Industries", "Osborn Industries", "Pym Technologies", "Hammer Industries"],
+          "answer": "Stark Industries"
+        },
+        {
+          "id": 54,
+          "question": "Who is the villain in Thor: The Dark World?",
+          "options": ["Loki", "Hela", "Ultron", "Malekith"],
+          "answer": "Malekith"
+        },
+        {
+          "id": 55,
+          "question": "Which Avenger does not appear in Avengers: Age of Ultron?",
+          "options": ["Thor", "Captain America", "Hawkeye", "Black Panther"],
+          "answer": "Black Panther"
+        },
+        {
+          "id": 56,
+          "question": "What is the name of the city where Captain America wakes up after being frozen?",
+          "options": ["New York", "Washington, D.C.", "Wakanda", "Brooklyn"],
+          "answer": "Brooklyn"
+        },
+        {
+          "id": 57,
+          "question": "Which Avenger is known as the \"God of Mischief\"?",
+          "options": ["Thor", "Loki", "Iron Man", "Captain America"],
+          "answer": "Loki"
+        },
+        {
+          "id": 58,
+          "question": "Who destroyed the Mind Stone in Avengers: Infinity War?",
+          "options": ["Captain America", "Thor", "Vision", "Thanos"],
+          "answer": "Vision"
+        },
+        {
+          "id": 59,
+          "question": "Who killed Tony Stark in Avengers: Endgame?",
+          "options": ["Thanos", "Doctor Strange", "Ultron", "No one (he dies of injuries)"],
+          "answer": "No one (he dies of injuries)"
+        },
+        {
+          "id": 60,
+          "question": "What is the name of the race of aliens that Thor belongs to?",
+          "options": ["Asgardians", "Jotunheim", "Celestials", "Kree"],
+          "answer": "Asgardians"
+        },
+        {
+          "id": 61,
+          "question": "Who is the first character to wield the Power Stone in the MCU?",
+          "options": ["Peter Quill", "Thanos", "Ronan the Accuser", "Captain Marvel"],
+          "answer": "Ronan the Accuser"
+        },
+        {
+          "id": 62,
+          "question": "What is the name of the artificial intelligence that replaced J.A.R.V.I.S. in Avengers: Age of Ultron?",
+          "options": ["Vision", "Friday", "Ultron", "Karen"],
+          "answer": "Friday"
+        },
+        {
+          "id": 63,
+          "question": "Who is responsible for creating the Ultron AI?",
+          "options": ["Tony Stark", "Hank Pym", "Bruce Banner", "Both Tony Stark and Bruce Banner"],
+          "answer": "Both Tony Stark and Bruce Banner"
+        },
+        {
+          "id": 64,
+          "question": "What is the name of the alien race that serves Thanos in Avengers: Infinity War?",
+          "options": ["Kree", "Chitauri", "Outriders", "Skrulls"],
+  
+          "answer": "Outriders"
+        },
+        {
+          "id": 65,
+          "question": "In Avengers: Endgame, how do the Avengers retrieve the stones from the past?",
+          "options": ["Time travel via the Quantum Realm", "Using the Time Stone", "Loki’s trickery", "The Celestials help them"],
+          "answer": "Time travel via the Quantum Realm"
+        },
+        {
+          "id": 66,
+  
+          "question": "Which Avenger was not present when the Avengers first fought Thanos in Avengers: Infinity War?",
+          "options": ["Iron Man", "Black Panther", "Thor", "Captain Marvel"],
+          "answer": "Captain Marvel"
+        },
+        {
+          "id": 67,
+          "question": "In Avengers: Infinity War, who was the first to be dusted by Thanos' snap?",
+          "options": ["Doctor Strange", "Spider-Man", "Black Panther", "Falcon"],
+          "answer": "Falcon"
+        },
+        {
+          "id": 68,
+          "question": "Which character temporarily holds the title of Captain America after Steve Rogers?",
+          "options": ["Bucky Barnes", "Sam Wilson", "Tony Stark", "Clint Barton"],
+          "answer": "Sam Wilson"
+        },
+        {
+          "id": 69,
+  
+          "question": "What is the real name of Vision?",
+  
+          "options": ["Tony Stark", "Bruce Banner", "J.A.R.V.I.S.", "Ultron"],
+  
+          "answer": "J.A.R.V.I.S."
+        },
+        {
+          "id": 70,
+  
+          "question": "Which character does Thanos kill to get the Soul Stone?",
+  
+          "options": ["Black Widow", "Gamora", "Vision", "Loki"],
+  
+          "answer": "Gamora"
+        },
+        {
+          "id": 71,
+  
+          "question": "What is the name of the space station that the Avengers fight on in Avengers: Endgame?",
+  
+          "options": ["S.H.I.E.L.D. Helicarrier", "The Milano", "The Benatar", "The Avengers Compound"],
+  
+          "answer": "The Avengers Compound"
+        },
+        {
+          "id": 72,
+  
+          "question": "Which character makes the ultimate sacrifice to obtain the Soul Stone?",
+  
+          "options": ["Black Widow", "Tony Stark", "Doctor Strange", "Clint Barton"],
+  
+          "answer": "Black Widow"
+        },
+        {
+          "id": 73,
+  
+          "question": "What is the name of the villainous group that Loki leads in The Avengers?",
+  
+          "options": ["The Chitauri", "The Outriders", "The Kree", "The Skrulls"],
+  
+          "answer": "The Chitauri"
+        },
+        {
+          "id": 74,
+  
+          "question": "Who originally wielded the shield that Captain America uses?",
+  
+          "options": ["Nick Fury", "Tony Stark", "Howard Stark", "Bucky Barnes"],
+  
+          "answer": "Howard Stark"
+        },
+        {
+          "id": 75,
+  
+          "question": "In Avengers: Endgame, who is the first character to come back after the Avengers use the time heist to retrieve the Infinity Stones?",
+  
+          "options": ["Thor", "Captain America", "Black Widow", "Hulk"],
+          "answer": "Hulk"
+        }
+      ]
+    }
+  ]
+  
